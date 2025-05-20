@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+.logindiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+}
